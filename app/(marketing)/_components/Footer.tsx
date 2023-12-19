@@ -2,7 +2,7 @@ import Logo from "@/components/logo";
 
 export const Footer = () => {
   return (
-    <footer className="w-full py-4 px-4 sm:px-6 lg:px-8 mx-auto bg-white border-t shadow-sm bottom-0">
+    <footer className="w-full py-4 px-4 sm:px-6 lg:px-8 mx-auto bg-white border-t shadow-sm">
       <div className="w-full justify-between md:max-w-screen-2xl mx-auto">
         {/* <!-- Grid --> */}
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-6 mb-10">
